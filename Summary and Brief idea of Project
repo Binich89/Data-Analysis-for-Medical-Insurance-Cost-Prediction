@@ -1,0 +1,49 @@
+SUMMARY OF PROJECT:
+The project analyze and predict medical insurance costs by exploring how different personal and lifestyle factors that influence
+the total charges of the insurance. Using a real-world dataset containing variables such as age, gender, BMI, employment details,
+other lifestyle diseases like diabtes etc, smoking habits, and region, this study applies Exploratory Data Analysis (EDA) and predictive modeling techniques to
+uncover meaningful patterns. The findings of this project can help insurance companies in setting fair premium rates and assist individuals in understanding how
+lifestyle choices affect their insurance costs.
+
+Key Steps in the Project: Data cleaning & Pre Processing:
+Fixing errors and inconsistancies which include checking and handling missing values,
+remove duplicates, fixing data types and formatting and renaming of columms.
+
+Explanatory Data Analysis (EDA):
+Preparation of explanatory data for the various lifestyle variables to explain the pattern of cost variation.
+Visualizations: Generation of different type of visuals using plots to study various patterns based on lifestyle factors,
+age, bmi etc Activity based analysis using univariate, bivariate and multivariate analysis to clearly understand the demographics with each components.
+
+List of Libraries used:
+Pandas - To read clean and analyse the given data
+csv - To read and edit files in csv format
+matplotlib - Create charts and plots for visualizations
+Seaborn - Create statistical visualizations
+plotly- Create comparitive charts showing patterns.
+
+Analytical & Real world value of Project:
+Life style diseases like diabetes, hyper tension and cholestrol adversly affect the cost of insurance plans and are categorised
+under pre existing diseases. Higher value of BMI and obesity increases the overall cost of insurance premium considering
+the future risk of lifestyle diseases. Lower age of individuals reduces significant cost in insurance premium amount focusing
+long term insurance with the company and lesser lifestyle diseases at younger ages.
+
+INSIGHTS AND OBSERVATIONS:
+The prediction helps insurance companies to fair and data driven pricing and
+calculations based on lifestyle factors.
+Educates people how BMI and smoking habbits adversly affects medical costs.
+Supports policy making and preventive care by identifying high-risk individuals.
+
+OVERALL OBSERVATIONS:
+- Most customers with high BMI also have high insurance charges.
+- The age distribution says that middle-aged individuals is fairly balanced and continuous, suitable for modeling and correlation analysis.
+- Smokers tend to have higher medical expenses than non-smokers.
+- Age shows a moderate positive co-relation with insurance charges.
+- The heat map reflects that the age and bmi values directly relates to the risk of various diseases.
+
+BUSINESS RECOMMENDATIONS:
+- The medical insurance companies focus on healthy and younger people so that the insured will be claimless for a longer period of time from the point of life style diseases.
+-Higher BMI results in Higher Cost: Encouraging weight management and wellness programs are essential to have a normal BMI.
+- Smoking acts a Major Cost Factor: Promotion of anti-smoking initiatives and offer incentives for non-smokers.
+- Chronic Diseases are also Cost Drivers: Early screening and preventive care can reduce long-term expenses.
+- Older Age incures Higher Premiums: Adjust insurance pricing fairly based on risk factors.
+- Campaigns on smokers and diabetic patients with higer value of BMI can help to reduce insurance claims.
